@@ -17,4 +17,5 @@ Proyecto del módulo 0 sobre programación orientada a objetos en JavaScript.
 
 ## Pantallazo
 
-<img width="1365" height="719" alt="Captura01" src="https://github.com/user-attachments/assets/8fad54eb-1ae4-494d-a74c-3e2dba2a01fa" />
+<img width="1178" height="584" alt="Captura01" src="https://github.com/user-attachments/assets/250eb84b-83e3-4684-a72b-8f3cfc050c40" />
+
